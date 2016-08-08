@@ -1,5 +1,5 @@
 def getName():
-	name = input("Entre your name: ")
+	name = input("Enter your name: ")
 	return name
 
 
